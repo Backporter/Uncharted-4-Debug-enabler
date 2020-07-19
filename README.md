@@ -14,3 +14,4 @@ Usage: Uncharted_4_1.18_Debug_enabler.exe "eboot.bin"
 
 Usage: Uncharted_4_1.32_Debug_enabler.exe "eboot.bin"
 
+Usage: Uncharted_The_Lost_Legacy_1.00_Debug_enabler.exe "eboot.bin"
