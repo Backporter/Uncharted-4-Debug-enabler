@@ -6,7 +6,9 @@ the output hash(MD5) *should* be ``7c58535522090a1dfc082fceecf45c7e``for 1.0.
 
 the rest i will need to calculate(AKA TBA)
 
-----------------------------------------------------------------------
+**Usage:**
+--------------------------------------------------------------------------
+Drag eboot.bin and drop it onto the given executable, it will patch it, make a FPKG with said patched eboot.bin
 
 Usage: Uncharted_4_1.00_Debug_enabler.exe "eboot.bin"
 
